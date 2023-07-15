@@ -49,7 +49,7 @@ afterEvaluate {
                 pom {
                     name = PUBLISH_ARTIFACT_ID
                     description = "Android library to fetch device location."
-                    url = 'https://github.com/nasser-munshi/DeviceLocation'
+                    url = 'https://github.com/NasserMunshi/DeviceLocation'
                     licenses {
                         license {
                             name = 'MIT license'
@@ -66,9 +66,9 @@ afterEvaluate {
 
                     // Version control info
                     scm {
-                        connection = 'scm:git:ssh://git@github.com:nasser-munshi/DeviceLocation.git'
-                        developerConnection = 'scm:git:ssh://git@github.com:nasser-munshi/DeviceLocation.git'
-                        url = 'https://github.com/nasser-munshi/DeviceLocation.git'
+                        connection = 'scm:git:ssh://git@github.com:NasserMunshi/DeviceLocation.git'
+                        developerConnection = 'scm:git:ssh://git@github.com:NasserMunshi/DeviceLocation.git'
+                        url = 'https://github.com/NasserMunshi/DeviceLocation.git'
                     }
                 }
 
